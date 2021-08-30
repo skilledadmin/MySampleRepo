@@ -1,0 +1,7 @@
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojAssemblyReference.cache
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+C:\Users\babusan\source\repos\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
