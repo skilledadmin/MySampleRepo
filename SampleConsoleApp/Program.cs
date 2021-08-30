@@ -11,6 +11,7 @@ namespace SampleConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome World");
+            Console.WriteLine("My Sample World");
         }
     }
 }
